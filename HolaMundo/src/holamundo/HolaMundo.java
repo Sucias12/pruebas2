@@ -21,6 +21,7 @@ public class HolaMundo {
     
     System.out.print("hola hola");
     
+    System.out.print("maxim ");
     }
     
 }
