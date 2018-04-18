@@ -20,6 +20,8 @@ public class HolaMundo {
     System.out.print("Hola");
     
     System.out.print("hola hola");
+    
+    System.out.println("Hola pepe");
     }
     
 }
